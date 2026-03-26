@@ -3,3 +3,5 @@ Stat1 : mombre de consultations
 Stat2 : mombre de patients 
 Stat2 : mombre de patients 
 Stat3 : mombre d'Agents actifs 
+
+Stat4 : Representation resultats ia
